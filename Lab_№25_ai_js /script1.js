@@ -425,4 +425,5 @@ window.kaleidoSetHeavyCount = function(n) {
   drawPatternTo(gB, (CURRENT_PALETTE_INDEX + 1) % PALETTES.length, Math.random() * 1000);
 };
 
+
 // Порада: викличте window.kaleidoNextPalette() або змініть параметри з консолі для тестування
